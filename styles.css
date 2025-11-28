@@ -1,7 +1,15 @@
-body{
-color:darkorchid;
-
-background:rgb(238, 150, 165);
+body {
+color:rgb(204, 50, 158)
+  background:black;
 }
 
-p}
+header{
+  border-bottom: solid 2px rgb(204, 50, 158)
+}padding
+
+p{
+   text-align: center;
+   font-size: 10px;
+
+
+}
