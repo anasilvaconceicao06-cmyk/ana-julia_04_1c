@@ -1,15 +1,20 @@
 body {
-color:rgb(204, 50, 158)
-  background:black;
+    color:rgb(243, 155, 199)
+   background:black;
 }
 
-header{
-  border-bottom: solid 2px rgb(204, 50, 158)
-}padding
+header {
+     border-bottom: solid 2px;
+     padding: 20px;
+     font-size: 32px;
+     color: rgb(168, 66, 121);
+
+}
 
 p{
    text-align: center;
    font-size: 10px;
+
 
 
 }
